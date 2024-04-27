@@ -10,6 +10,8 @@ public class test1 {
 		
 		
 		System.out.println("Tester A push the code");
+		
+		System.out.println("TESTER B push the CODE");
 	}
 
 }
