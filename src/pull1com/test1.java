@@ -12,6 +12,8 @@ public class test1 {
 		System.out.println("Tester A push the code");
 		
 		System.out.println("TESTER B push the CODE");
+		System.out.println("TESTER c  push the CODE");
+		
 	}
 
 }
