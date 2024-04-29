@@ -13,6 +13,8 @@ public class test1 {
 		
 		System.out.println("TESTER B push the CODE");
 		System.out.println("TESTER c  push the CODE");
+		System.out.println("TESTER D  push the CODE");
+		
 		
 		
 		System.out.println("NEW USER STORY TEST CASES");
