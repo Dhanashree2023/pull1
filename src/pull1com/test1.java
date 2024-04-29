@@ -17,6 +17,8 @@ public class test1 {
 		
 		System.out.println("NEW USER STORY TEST CASES");
 		
+		System.out.println("user story ");
+		
 	}
 
 }
