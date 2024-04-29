@@ -6,6 +6,8 @@ public class test2 {
 		System.out.println("hi all");
 		
 		System.out.println("hellow all");
+		
+		System.out.println("git branch");
 	}
 
 }
